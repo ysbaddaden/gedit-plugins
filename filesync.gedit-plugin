@@ -1,0 +1,10 @@
+[Gedit Plugin]
+Loader=python
+Module=filesync
+IAge=2
+Name=File Synchronise
+Description=Synchronises files from source to another place.
+Authors=Julien Portalier <ysbaddaden@gmail.com>
+Copyright=Copyright © 2009 Julien Portalier <ysbaddaden@gmail.com>
+Website=http://ysbaddaden.wordpress.com
+
